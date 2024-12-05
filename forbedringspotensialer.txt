@@ -1,5 +1,0 @@
-1. Lese oppgaveteksten
-- Vi fikk trekk for å ikke ha vist at vi faktisk har gjort det. Ref. Submit a PDF file with the result.
-2. Mer utfyllende forklaringer
-- Vi fikk trekk for svake forklaringer
-3. 
